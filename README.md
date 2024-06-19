@@ -11,7 +11,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/omsoni123/image-converter.git
+git clone https://github.com/Omsoni123/Image-Editing-APP/edit/main/README.md
 Navigate to the project directory:
 
 bash
